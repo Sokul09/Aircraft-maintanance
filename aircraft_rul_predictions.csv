@@ -1,0 +1,101 @@
+unit_id,cycle,Predicted_RUL,Actual_RUL,Condition,Risk_Level,Recommendation
+1,31,169.68947083662522,112,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+2,49,154.67911913057705,98,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+3,126,55.45483333333333,69,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+4,106,77.55955068288087,82,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+5,98,101.18227876061222,91,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+6,105,92.73592380430324,93,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+7,160,119.53231359649122,91,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+8,166,66.80010625944816,95,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+9,55,148.97209082257766,111,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+10,192,125.81650641025641,96,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+11,83,85.46232873984881,97,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+12,217,99.37730952380953,124,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+13,195,97.40120621143207,95,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+14,46,145.22968988215862,107,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+15,76,167.56103058322591,83,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+16,113,101.56877402998954,84,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+17,165,49.66,50,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+18,133,59.809519132389795,28,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+19,135,119.0730449405582,87,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+20,184,22.331141025641028,16,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+21,148,62.0325,57,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+22,39,168.63051980225038,111,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+23,130,144.3477525936095,113,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+24,186,20.58,20,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+25,48,151.24038641137085,145,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+26,76,127.27315433814555,119,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+27,140,110.33907718548153,66,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+28,158,95.23427248280115,97,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+29,171,112.01654843767345,90,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+30,143,69.49426767921315,115,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+31,196,23.3787509018759,8,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+32,145,47.08555555555556,48,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+33,50,150.20415487170945,106,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+34,203,5.917815365190365,7,Critical,High,Immediate inspection recommended. Prioritize maintenance planning.
+35,198,8.18250851471273,11,Critical,High,Immediate inspection recommended. Prioritize maintenance planning.
+36,126,23.98452867965368,19,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+37,121,50.99476604187775,21,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+38,125,48.96681372549019,50,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+39,37,157.00097459483186,142,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+40,133,27.878674347158217,28,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+41,123,64.49424816411359,18,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+42,156,21.890142857142855,10,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+43,172,64.29581700120656,59,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+44,54,140.9648252343542,109,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+45,152,70.319556209849,114,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+46,146,50.26140017734736,47,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+47,73,119.43416897405768,135,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+48,78,124.42105288734936,92,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+49,303,19.618746606334845,21,Critical,High,Immediate inspection recommended. Prioritize maintenance planning.
+50,74,120.15387962962964,79,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+51,144,87.78644052139087,114,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+52,189,29.865,29,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+53,164,33.63,26,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+54,121,129.5724521742446,97,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+55,113,129.16111454452692,137,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+56,136,12.715022893772893,15,Critical,High,Immediate inspection recommended. Prioritize maintenance planning.
+57,160,81.2475776750043,103,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+58,176,47.314366667827535,37,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+59,94,153.16660824053258,114,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+60,147,88.2004663770304,100,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+61,159,47.153378615004485,21,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+62,232,61.535,54,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+63,155,53.291768546252136,72,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+64,168,44.03838499386168,28,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+65,71,159.0806088564405,128,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+66,147,16.23625,14,Critical,High,Immediate inspection recommended. Prioritize maintenance planning.
+67,71,162.64658823529413,77,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+68,187,17.39859836070792,8,Critical,High,Immediate inspection recommended. Prioritize maintenance planning.
+69,54,144.64106357813063,121,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+70,152,81.02680361873738,94,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+71,68,156.852475765794,118,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+72,131,66.87776241647741,50,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+73,112,158.1226556309566,131,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+74,137,90.93521042934923,126,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+75,88,121.40115444922802,113,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+76,205,13.906493285233074,10,Critical,High,Immediate inspection recommended. Prioritize maintenance planning.
+77,162,34.31878097231716,34,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+78,72,164.93261648168468,107,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+79,101,88.07262595087292,63,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+80,133,77.20399652224846,90,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+81,213,7.323364038273071,8,Critical,High,Immediate inspection recommended. Prioritize maintenance planning.
+82,162,8.982971861902465,9,Critical,High,Immediate inspection recommended. Prioritize maintenance planning.
+83,73,134.04769155078205,137,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+84,172,47.68807229020978,58,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+85,34,165.35871978809482,118,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+86,110,78.9906897008081,89,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+87,56,151.97192165828955,116,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+88,68,145.3915262356151,115,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+89,177,111.32601395173452,136,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+90,146,40.06444444444444,28,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+91,234,28.075826388888892,38,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+92,150,22.52207407407407,20,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+93,244,50.94904791055178,85,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+94,133,46.69466256663955,55,Warning,Medium,Increase monitoring frequency and schedule preventive maintenance.
+95,89,138.7966269474929,128,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+96,97,139.7036685588002,137,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+97,134,75.60112965838508,82,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+98,121,78.09725200463166,59,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+99,97,122.35299503638498,117,Healthy,Low,Continue routine monitoring and scheduled maintenance.
+100,198,16.145,20,Critical,High,Immediate inspection recommended. Prioritize maintenance planning.
